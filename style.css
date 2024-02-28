@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 80%;
+    margin-top: 10px;
+    font-size: large;
+    font-family:  sans-serif;
+    color: black;
+    font-weight: bolder;
+    border: 5px burlywood;
+    border-radius: 1000px;
+}
+
+#i {
+    width: 80%;
+    border-radius: 1000px;
+}
+
+#objectname{
+color: aquamarine;
+font-weight: bolder;
+}
+
+#input{
+    width: 300px;
+}
+.btn-success {
+  width: 5%;
+  border-radius: 10px;
+}
+
